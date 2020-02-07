@@ -1,0 +1,10 @@
+set hlsearch
+set incsearch
+set showmode
+set number
+inoremap jj <Right>
+inoremap kk <Left>
+inoremap ff <Esc>A
+inoremap hh <Down><Esc>o
+inoremap zz <Backspace>
+inoremap ;; <Esc>A;
