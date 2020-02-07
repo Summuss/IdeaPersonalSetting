@@ -1,0 +1,132 @@
+<application>
+  <component name="VimLocalSettings">
+    <state version="5" />
+    <globalmarks />
+    <filemarks>
+      <file name="D:/documents/Code/Java/Sword/app/src/main/java/top/summus/sword/activities/BookFolderActivity.java" timestamp="1581039241644">
+        <mark key="[" line="11" column="24" />
+      </file>
+      <file name="D:/documents/Code/Java/Sword/app/src/main/res/layout/fragment_base_wordlist.xml" timestamp="1581040075442">
+        <mark key="[" line="44" column="54" />
+      </file>
+      <file name="/a.dummy" timestamp="1580999681806">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/documents/Code/Java/Sword/app/src/main/res/layout/recycer_item_layout.xml" timestamp="1581040351026" />
+      <file name="D:/documents/GitHub/SWord/app/src/main/assets/litepal.xml" timestamp="1580994955673" />
+      <file name="D:/documents/Code/Java/Sword/app/src/main/java/top/summus/sword/model/Word.java" timestamp="1580997309232">
+        <mark key="[" line="6" column="42" />
+        <mark key="]" line="6" column="39" />
+        <mark key="^" line="6" column="39" />
+        <mark key="." line="6" column="39" />
+      </file>
+      <file name="D:/documents/Code/Java/Sword/app/src/main/java/top/summus/sword/model/WordBook.java" timestamp="1580998912526">
+        <mark key="[" line="6" column="46" />
+        <mark key="]" line="6" column="43" />
+        <mark key="^" line="6" column="43" />
+        <mark key="." line="6" column="43" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1581040281345">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/documents/GitHub/SWord/app/src/main/res/layout/activity_folder.xml" timestamp="1581040319331" />
+      <file name="D:/documents/Code/Java/Sword/app/src/main/java/top/summus/sword/SwordApplication.java" timestamp="1580994541957">
+        <mark key="[" line="17" column="38" />
+        <mark key="]" line="18" column="22" />
+        <mark key="^" line="18" column="22" />
+        <mark key="." line="18" column="22" />
+      </file>
+      <file name="D:/documents/Code/Java/Sword/app/src/main/java/top/summus/sword/model/BookNode.java" timestamp="1581038448238">
+        <mark key="[" line="12" column="29" />
+        <mark key="]" line="8" column="21" />
+        <mark key="^" line="8" column="21" />
+        <mark key="." line="8" column="21" />
+      </file>
+      <file name="D:/documents/Code/Java/Sword/app/src/main/res/layout/activity_book_folder.xml" timestamp="1581041280781">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="12" column="14" />
+        <mark key="." line="12" column="14" />
+        <mark key="^" line="12" column="14" />
+      </file>
+      <file name="D:/documents/Code/Java/Sword/app/src/main/java/top/summus/sword/model/WordRecord.java" timestamp="1580999612337">
+        <mark key="[" line="39" column="26" />
+        <mark key="]" line="39" column="22" />
+        <mark key="^" line="39" column="22" />
+        <mark key="." line="39" column="22" />
+      </file>
+      <file name="D:/documents/Code/Java/Sword/app/src/main/res/menu/navigation_menu.xml" timestamp="1581038894085">
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="15" column="33" />
+        <mark key="^" line="15" column="33" />
+        <mark key="." line="15" column="33" />
+      </file>
+      <file name="D:/documents/Code/Java/Sword/app/src/main/java/top/summus/sword/activities/DrawerActivity.java" timestamp="1581038865860">
+        <mark key="[" line="87" column="33" />
+        <mark key="]" line="87" column="31" />
+        <mark key="." line="87" column="31" />
+        <mark key="^" line="87" column="31" />
+      </file>
+      <file name="D:/documents/Code/Java/Sword/app/src/main/asset/litepal.xml" timestamp="1580994925826">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+      </file>
+      <file name="D:/documents/GitHub/SWord/app/src/main/res/layout/node_layout.xml" timestamp="1581040361563" />
+      <file name="/fragment.java" timestamp="1581041137762">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="4" column="45" filename="D:/documents/Code/Java/Sword/app/src/main/res/layout/nav_right_layout.xml" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">PCEtLSDV27X+yr2x6sziwLggICAtLT4K</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PCEtLSDV27X+yr2x6sziwLggICAtLT4K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">PCEtLSDOxLz+vNC92rXjICAgLS0+Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">PCEtLSAgICAgt7W72MnP0ru8tr3ateMtLT4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8IS0tICAtLT4K</text>
+      </register>
+      <register name="d" type="4">
+        <text>R.string.navigation_drawer_close</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBMb2cuaShUQUcsICJvbk5hdmlnYXRpb25JdGVtU2VsZWN0ZWQ6ICIraXRlbS5nZXRJdGVtSWQoKWRkKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBuYXZpZ2F0aW9uVmlldy5zZXRPbkNsaWNrTGlzdGVuZXIodGhpcyk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBMb2cuaShUQUcsICJvbkNyZWF0ZTogc3RhcnQiKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBMaXRlUGFsLmdldERhdGFiYXNlKCk7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICA8aXRlbQogICAgICAgICAgICAgICAgYW5kcm9pZDp0aXRsZT0iaXRlbTQiLz4K</text>
+      </register>
+      <register name="-" type="4">
+        <text>Cooandroidx.constraintlayout.widget.ConstraintLayout</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>true</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+</application>

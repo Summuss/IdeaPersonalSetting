@@ -1,0 +1,56 @@
+<application>
+  <component name="DimensionService">
+    <size key="GridCell.Tab.0.left.0.0.2561.1601@180dpi" width="2477" height="341" />
+    <size key="GridCell.Tab.0.center.0.0.2561.1601@180dpi" width="2477" height="341" />
+    <size key="GridCell.Tab.0.right.0.0.2561.1601@180dpi" width="2477" height="341" />
+    <size key="GridCell.Tab.0.bottom.0.0.2561.1601@180dpi" width="2477" height="341" />
+    <size key="GridCell.Tab.1.left.0.0.2561.1601@180dpi" width="1898" height="416" />
+    <size key="GridCell.Tab.1.center.0.0.2561.1601@180dpi" width="1898" height="416" />
+    <size key="GridCell.Tab.1.right.0.0.2561.1601@180dpi" width="1898" height="416" />
+    <size key="GridCell.Tab.1.bottom.0.0.2561.1601@180dpi" width="1898" height="416" />
+    <size key="GridCell.Tab.2.left.0.0.2561.1601@180dpi" width="1898" height="416" />
+    <size key="GridCell.Tab.2.center.0.0.2561.1601@180dpi" width="1898" height="416" />
+    <size key="GridCell.Tab.2.right.0.0.2561.1601@180dpi" width="1898" height="416" />
+    <size key="GridCell.Tab.2.bottom.0.0.2561.1601@180dpi" width="1898" height="416" />
+  </component>
+  <component name="WindowManager">
+    <frame x="-11" y="-11" width="2582" height="1622" extendedState="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="636" y="180" key="FileChooserDialogImpl" timestamp="1580895699096">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="636" y="180" key="FileChooserDialogImpl/0.0.1707.1027" timestamp="1580895699096" />
+    <state x="1205" y="841" width="500" height="235" key="ProcessPopupWindow" timestamp="1580976568753">
+      <screen x="0" y="0" width="1707" height="1067" />
+    </state>
+    <state x="1205" y="841" width="500" height="235" key="ProcessPopupWindow/0.0.1707.1067" timestamp="1580976568753" />
+    <state x="245" y="28" key="SettingsEditor" timestamp="1578652048888">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="245" y="28" key="SettingsEditor/0.0.1707.1027" timestamp="1578652048888" />
+    <state x="773" y="477" key="WELCOME_SCREEN" timestamp="1579960884759">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="773" y="477" key="WELCOME_SCREEN/0.0.1707.1027" timestamp="1579960884759" />
+    <state x="244" y="44" width="1079" height="896" key="new project wizard" timestamp="1580963070037">
+      <screen x="0" y="0" width="1707" height="1067" />
+    </state>
+    <state x="76" y="0" key="new project wizard/0.0.1707.1027" timestamp="1580895705392" />
+    <state x="244" y="44" width="1079" height="896" key="new project wizard/0.0.1707.1067" timestamp="1580963070037" />
+  </component>
+</application>
